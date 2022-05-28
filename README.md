@@ -1,2 +1,4 @@
-# learning_path_python
+# Learning Path Python
  Python exercises and codes
+
+ Repository for tests
