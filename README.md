@@ -1,5 +1,3 @@
-# Learning Path Python
- Python exercises and codes
+# Aprendizagem Python
+ Caminho de aprendizagem da linguagem Python
 
- Repository for tests
-Oi asdd
