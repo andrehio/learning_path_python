@@ -1,4 +1,6 @@
 # Função
+# Curso: Raciocínio Lógico
+# Pontifícia Universidade Católica do Paraná (PUC-PR)
 '''
 Elabore um programa que cadastre contatos de uma agenda telefônica.
 A função de cadastro deve ser realizada dentro de uma função chamada inserir,
