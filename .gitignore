@@ -2,3 +2,6 @@
 funcao/.idea/funcao.iml
 funcao/.idea/.name
 classes/quadrado/__pycache__/operacoes.cpython-39.pyc
+*.pyc
+*.iml
+*.xml
