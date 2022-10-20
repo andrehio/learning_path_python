@@ -21,10 +21,10 @@ auth = firebase.auth()
 user = input("Digite seu e-mail: ")
 password = input("Digite sua senha, com pelo menos 6 caracteres: ")
 
-#criar usuário
-#status = auth.create_user_with_email_and_password(user,password)
+# criar usuário
+# status = auth.create_user_with_email_and_password(user,password)
 
-#login
+# login
 status = auth.sign_in_with_email_and_password(user,password)
 idToken = status["idToken"]
 
