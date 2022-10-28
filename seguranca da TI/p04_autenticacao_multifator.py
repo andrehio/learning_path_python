@@ -49,4 +49,4 @@ def select_cadastro():
 
 
 # Inicio do programa
-
+select_menu()
